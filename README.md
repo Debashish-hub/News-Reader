@@ -132,8 +132,12 @@ NewsReader/
 
 
 ## Screenshots
-
-
+![Screenshot 1](https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.30.30.png)
+![Screenshot 2](https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.30.42.png)
+![Screenshot 3](https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.33.51.png)
+![Screenshot 4](https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.34.45.png)
+![Screenshot 5](https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.34.51.png)
+![Screenshot 6](https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.34.55.png)
 
 ## Notes / Future Improvements
 
