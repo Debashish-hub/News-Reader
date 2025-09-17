@@ -134,6 +134,10 @@ NewsReader/
 ## Screenshots
 <img src="https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.30.30.png" alt="Alt Text" width="300" height="700"> <img src="https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.30.42.png" alt="Alt Text" width="300" height="700"> <img src="https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.33.51.png" alt="Alt Text" width="300" height="700"> <img src="https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.34.45.png" alt="Alt Text" width="300" height="700"> <img src="https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.34.51.png" alt="Alt Text" width="300" height="700"> <img src="https://github.com/Debashish-hub/News-Reader/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-09-16%20at%2022.34.55.png" alt="Alt Text" width="300" height="700">
 
+## Test Case
+
+<img src="https://github.com/Debashish-hub/News-Reader/blob/main/testcases.png" alt="Alt Text" width="500" height="400">
+
 
 ## Notes / Future Improvements
 
